@@ -28,7 +28,7 @@ public class FXMainPane extends BorderPane {
 	private TextField plainTextTextField, inputForEncryptionTextField, encryptedStringTextField3, decryptedTextField4;
 	private Label plainTextLabel, descriptionForInputLabel, encryptedLabel3, decryptedLabel4, blankLabel1, blankLabel2;
 	private RadioButton radioButton1, radioButton2;
-	private int shiftInt = 0;
+	private int shiftInt = 0; 
 	private final String BLANK = "                 "; 
 
 	private void buildTextFields() {
